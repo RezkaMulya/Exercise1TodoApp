@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="NamaLogin">Masukkan Nama</string>
+    <string name="PasswordLogin">Masukkan Password</string>
+    <string name="btnsignin">SIGN IN</string>
+    <string name="btnregister">Register</string>
+    <string name="NamaReg">Masukkan Nama</string>
+    <string name="Emailreg">Masukkan Email</string>
+    <string name="PasswordReg">Masukukkan Password</string>
+    <string name="rePassword">Masukkan RePassword</string>
+    <string name="task">Masukkan Task</string>
+    <string name="jnstask">Masukkan Jenis Task</string>
+    <string name="timetask">Masukkan Lama task</string>
+    <string name="submit">Submit</string>
+    <string name="simpanTask">Simpan</string>
+    <string name="judul">Todo App</string>
+</resources>
